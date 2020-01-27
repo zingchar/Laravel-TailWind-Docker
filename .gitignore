@@ -1,0 +1,10 @@
+/code/node_modules
+/code/public/hot
+/code/public/storage
+/code/storage/*.key
+/code/vendor
+/code/.env
+/code/.env.backup
+/code/.phpunit.result.cache
+/code/npm-debug.log
+/code/yarn-error.log
