@@ -8,3 +8,4 @@
 /code/.phpunit.result.cache
 /code/npm-debug.log
 /code/yarn-error.log
+**/.DS_Store
